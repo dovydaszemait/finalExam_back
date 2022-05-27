@@ -9,6 +9,7 @@ const productRoute = require("./routes/product");
 const cartRoute = require("./routes/cart");
 const orderRoute = require("./routes/order");
 const cors = require("cors");
+const stripeRoute = require("./routes/stripe");
 
 mongoose
   .connect(process.env.MONGO_URL)
