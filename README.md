@@ -5,7 +5,7 @@
 A full-stack e-commerce app 'natural.' for cycling store that sells bikes, accessories and do repairs. 🚴
 
 This app is made with React in the front-end, node.js in the back-end using MongoDB database.
-This repository is client side only. To get server side click here https://github.com/dovydaszemait/finalExam ❕
+This repository is server side only. To get client side click here https://github.com/dovydaszemait/finalExam ❕
 
 ## How to install and start
 
